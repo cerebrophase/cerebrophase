@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cerebrophase
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning javscript
+- 🌱 I’m currently learning C
+- I'm currently enrolled in the ALX software engineering program
 - 📫 How to reach me lawalmuhdbashir@gmail.com
 
 <!---
